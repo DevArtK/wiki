@@ -2,10 +2,15 @@
 
 Personal collection of documentation use VimWiki
 
+## Key Generation
+    [GPG_Keys](Setup/Keys/GPG_Keys)
+    [SSH_Keys](Setup/Keys/SSH_Keys)
+
+
 ## Setup
+    [Git](Setup/Git)
     [Pass](Setup/Pass)
     [Key Generation](Setup/Key Generation)
-    [GPG Keys](Setup/GPG Keys)
 
 
 ## Studies
